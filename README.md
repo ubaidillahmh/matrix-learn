@@ -2,10 +2,10 @@
 
 ## run matrix without input
 
-$ javac Matrix.java
+$ javac Matrix.java <br>
 $ java Matrix
 
 ## run matrix with input
 
-$ javac MatrixInput.java
+$ javac MatrixInput.java <br>
 $ java MatrixInput
